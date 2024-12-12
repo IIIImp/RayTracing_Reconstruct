@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/RayTracing_Reconstruct.vcxproj
+/RayTracing_Reconstruct.vcxproj.filters
